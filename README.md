@@ -65,10 +65,9 @@ As bibliotecas usadas são: `networkx`, `numpy`, `scipy`, `pandas`, `matplotlib`
 
 > O `igraph` é usado só para calcular a intermediação (*betweenness*) no ataque da Parte III. Se ele não estiver instalado, o notebook 03 usa uma versão aproximada própria e avisa na saída (`Betweenness: ...`). Para reproduzir os números do relatório, instale o `igraph`.
 
-### 4. Colocar os dados originais
+### 4. Colocar os dados originais, caso não presentes
 
-O arquivo bruto não precisa ser descompactado. É possível baixar em
-<https://snap.stanford.edu/data/p2p-Gnutella06.txt.gz>
+É possível baixar o grafo original em <https://snap.stanford.edu/data/p2p-Gnutella06.txt.gz>
 
 (Mesmo com a pasta `data/processed` já no repositório, o notebook 01 ainda assim deve ser executado primeiro, pois ele a regenera.)
 
