@@ -1,7 +1,0 @@
-Candidato,Resultado
-Reciprocidade,0 de 31525 arestas dirigidas têm reversa (0.00%)
-Maior SCC,3226 vértices (37.0%); 5492 SCCs no total
-Bow-tie (vs. maior SCC),SCC=3226 | IN=100 | OUT=5296 | outros=95
-Grau de entrada x saída,"máx. entrada=64 | máx. saída=113 | Spearman(ent, saí)=0.104"
-Concentração nos hubs,top 1% dos vértices = 6.8% dos graus; top 5% = 17.7%
-Assortatividade de grau,0.0516 (negativo = hubs ligam-se a vértices de grau baixo)
