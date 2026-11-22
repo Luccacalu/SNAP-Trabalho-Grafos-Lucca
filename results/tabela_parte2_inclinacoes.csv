@@ -1,0 +1,11 @@
+Algoritmo,Complexidade teórica,Inclinação log-log,R²,Tamanhos |V|
+BFS,O(|V|+|E|),0.961,0.9971,1000–8717
+DFS,O(|V|+|E|),0.977,0.9994,1000–8717
+Eulerianidade,O(|V|+|E|),0.945,0.962,1000–8717
+Dijkstra,O((|V|+|E|) log|V|),1.181,0.9981,1000–8717
+Bellman-Ford (parada antecipada),O(|V|·|E|) pior caso,0.558,0.9943,1000–8717
+Bellman-Ford (sem parada),O(|V|·|E|),1.158,0.9883,100–500
+Floyd-Warshall,O(|V|^3),1.188,0.9448,100–500
+Tarjan (SCC),O(|V|+|E|),1.041,0.9975,1000–8717
+AGM - Kruskal,O(|E| log|V|),0.885,0.9967,1000–8717
+AGM - Prim,O(|E| log|V|),1.097,0.9989,1000–8717

@@ -1,0 +1,14 @@
+Métrica,Computada?,Valor / Observação
+Número de vértices,Sim,8717
+Número de arestas,Sim,31525 (dir.) | 31525 (não dir.)
+"Grau mínimo, máximo e médio",Sim,Não dir.: 1 / 115 / 7.23 | Entrada: 0 / 64 / 3.62 | Saída: 0 / 113 / 3.62
+Distribuição de graus,Sim,Figura parte1_distribuicao_graus.png (linear e log-log)
+Densidade,Sim,0.000415 (dir.) | 0.000830 (não dir.)
+Número de componentes conexas,Sim,1 WCC | 5492 SCC
+Tamanho de cada componente,Sim,"WCC: 8717 | SCC: maior = 3226, 5491 de tamanho 1 (lista completa em results/tamanhos_componentes.csv)"
+Diâmetro,Sim (global dirigido = ∞),"10 (não dir.) | 19 (maior SCC) | ∞ (dir. global, não fortemente conexo)"
+Raio,Sim (global dirigido = ∞),6 (não dir.) | 12 (maior SCC) | ∞ (dir. global)
+Comprimento médio dos caminhos,Sim,"4.5720 (não dir.) | 6.4771 (maior SCC) | 6.5720 (dir., só pares alcançáveis)"
+Coeficiente de clusterização médio,Sim,0.0067 (não dir.) | 0.0033 (dir.)
+Número de triângulos,Sim,1142 (versão não dirigida; transitividade = 0.008108)
+Visualização do grafo,Sim (versão reduzida),Subgrafo induzido dos 120 hubs (parte1_visualizacao_top120.png)

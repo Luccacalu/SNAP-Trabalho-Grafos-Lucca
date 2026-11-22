@@ -1,0 +1,11 @@
+,SNAP,Calculado aqui,Confere?
+Vértices,8717.0,8717.0,Sim
+Arestas,31525.0,31525.0,Sim
+Vértices na maior WCC,8717.0,8717.0,Sim
+Vértices na maior SCC,3226.0,3226.0,Sim
+Arestas na maior SCC,13589.0,13589.0,Sim
+Clusterização média,0.0067,0.0067,Sim
+Triângulos,1142.0,1142.0,Sim
+Fração de triângulos fechados (SNAP),0.002717,0.002717,Sim
+Diâmetro,10.0,10.0,Sim
+Diâmetro efetivo (90%),5.3,5.3,Sim
